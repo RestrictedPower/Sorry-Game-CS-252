@@ -1,3 +1,4 @@
 # SorryGame CS-252
-A simple java game. Project of CS-252 course (100/100 grade).
+You can download the .jar file and try it yourself.
 
+![alt text](https://github.com/RestrictedPower/Sorry-Game-CS-252/blob/main/preview.png?raw=true)
